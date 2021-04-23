@@ -1,0 +1,11 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+.nav {
+  display: block;
+  position: fixed;
+  width: 100%;
+}
+.bg-color {
+  color: #ccc;
+}

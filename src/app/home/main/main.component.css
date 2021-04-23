@@ -1,0 +1,29 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 600px;
+  background-color: #303030;
+  color: #ccc;
+}
+.first-section,
+.second-section {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+  margin: 20px;
+}
+h2 {
+  text-align: center;
+}
+.divider {
+  background-color: #ccc;
+  width: 60%;
+  margin: 0 auto;
+  height: 2px;
+}
+.article {
+  width: 30%;
+  height: auto;
+}
+
